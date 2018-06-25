@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25fdc73f-3f8d-408d-a5dc-ae3a7f3837c3" name="Default" comment="" />
+    <list default="true" id="25fdc73f-3f8d-408d-a5dc-ae3a7f3837c3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/SphinxClient.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="360" lean-forward="true" selection-start-line="360" selection-end-line="360" />
+              <caret line="360" selection-start-line="360" selection-end-line="360" />
             </state>
           </provider>
         </entry>
@@ -26,8 +29,8 @@
       <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="85">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -115,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529569178509</updated>
-      <workItem from="1529569179761" duration="6162000" />
+      <workItem from="1529569179761" duration="6586000" />
     </task>
     <task id="LOCAL-00001" summary="Updates autoload">
       <created>1529917961775</created>
@@ -145,11 +148,32 @@
       <option name="project" value="LOCAL" />
       <updated>1529918515916</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updates autoload">
+      <created>1529918689894</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529918689894</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updates autoload">
+      <created>1529918822617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1529918822617</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updates autoload">
+      <created>1529919046898</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1529919046898</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6162000" />
+    <option name="totallyTimeSpent" value="6586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -170,7 +194,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32931355" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30814716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30749014" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -230,14 +254,14 @@
     <entry file="file://$PROJECT_DIR$/SphinxClient.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="360" lean-forward="true" selection-start-line="360" selection-end-line="360" />
+          <caret line="360" selection-start-line="360" selection-end-line="360" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>

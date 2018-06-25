@@ -1,13 +1,9 @@
 {
     "name": "collectorsweekly/sphinx-api",
     "description": "Unofficial sphinx-api mirror",
-    "psr-0": { "": "" },
     "autoload": {
        "classmap": ["SphinxClient.php"]
-    },
-    "files": [
-        "SphinxClient.php"
-    ]
+    }
 }
 
 
