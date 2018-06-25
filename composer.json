@@ -2,8 +2,11 @@
     "name": "collectorsweekly/sphinx-api",
     "description": "Unofficial sphinx-api mirror",
     "autoload": {
-       "classmap": ["sphinxapi.php"]
-    }
+       "classmap": ["SphinxClient.php"]
+    },
+    "files": [
+        "SphinxClient.php"
+    ]
 }
 
 
