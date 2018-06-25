@@ -1,8 +1,7 @@
 {
-    "name": "vendor/sphinxapi",
-    "version": "1.0.0",
-    "dist": {
-        "url": "git@github.com:collectorsweekly/sphinx-api.git",
-        "type": "vcs"
-    }
+    "name": "collectorsweekly/sphinx-api",
+    "description": "Unofficial sphinx-api mirror",
+
 }
+
+
